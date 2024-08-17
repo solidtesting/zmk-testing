@@ -1,6 +1,6 @@
-// wyld_dm_right.overlay
+// solid_dm_right.overlay
 
-#include "wyld_dm.dtsi"
+#include "solid_dm.dtsi"
 
 &default_transform {
     col-offset = <6>;

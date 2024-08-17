@@ -1,6 +1,6 @@
-// wyld_dm_left.overlay
+// solid_dm_left.overlay
 
-#include "wyld_dm.dtsi"
+#include "solid_dm.dtsi"
 
 
 &kscan0 {

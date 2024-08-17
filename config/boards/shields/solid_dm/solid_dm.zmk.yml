@@ -1,6 +1,6 @@
 file_format: "1"
-id: wyld_dm
-Name: wyld_dm
+id: solid_dm
+Name: solid_dm
 type: shield
 url: https://github.com/bullwinkle3000/zmk-config-xiao/
 requires:
@@ -12,5 +12,5 @@ features:
   - display
   - encoders
 siblings:
-  - wyld_dm_left
-  - wyld_dm_right
+  - solid_dm_left
+  - solid_dm_right
